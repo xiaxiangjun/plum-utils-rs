@@ -1,4 +1,7 @@
+pub mod binary;
+pub mod context;
 pub mod hex;
+pub mod mem;
 
 #[cfg(test)]
 mod tests {

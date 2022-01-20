@@ -2,6 +2,7 @@ pub mod binary;
 pub mod context;
 pub mod hex;
 pub mod mem;
+pub mod sync;
 
 #[cfg(test)]
 mod tests {
